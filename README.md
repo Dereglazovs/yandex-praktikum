@@ -44,53 +44,43 @@
     </tr>
     <tr>
         <td>4.</td>
-        <td><a href = "https://github.com/Dereglazovs/yandex-praktikum/blob/main/4.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%20%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D1%85%20%D0%B8%D0%B3%D1%801.ipynb">
-        Анализ продаж компьютерных игр
+        <td><a href = "https://github.com/Dereglazovs/yandex-praktikum/blob/main/Project_4/4.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%20%D0%BA%D0%BE%D0%BC%D0%BF%D1%8C%D1%8E%D1%82%D0%B5%D1%80%D0%BD%D1%8B%D1%85%20%D0%B8%D0%B3%D1%801.ipynb">
+        Изучение закономерностей, определяющих успешность игр
         </a></td>
         <td>
-        Заказчик - интернет-магазин Стримчик<br/>
-        Выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.
+        Используя исторические данные о продажах компьютерных игр, оценки пользователей и экспертов, жанры и платформы, выявить закономерности, определяющие успешность игры.
         </td>
         <td>
-        Python, Pandas, Matplotlib, Numpy, предобработка данных, исследовательский анализ, визуализация данных, описательная статистика, проверка статистических гипотез
+        Python, Pandas, Matplotlib, Seaborn, Numpy, SciPy, предобработка данных, исследовательский анализ, описательная статистика, проверка статистических гипотез
         </td>
     </tr>
     <tr>
         <td>5.</td>
-        <td><a href = "https://github.com/Dereglazovs/yandex-praktikum/blob/main/5.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B0%D0%B7%D0%B2%D0%BB%D0%B5%D0%BA%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20Procrastinate%20Pro%2B.ipynb">
+        <td><a href = "https://github.com/Dereglazovs/yandex-praktikum/blob/main/Project_5/5.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B0%D0%B7%D0%B2%D0%BB%D0%B5%D0%BA%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F%20Procrastinate%20Pro%2B.ipynb">
         Анализ развлекательного приложения Procrastinate Pro+
         </a></td>
         <td>
-        Задача — разобраться в причинах и помочь компании выйти в плюс.
-        Изучено:<br/>
-        <ul>
-        <li>откуда приходят пользователи и какими устройствами они пользуются,</li><br/>
-        <li>сколько стоит привлечение пользователей из различных рекламных каналов,</li><br/>
-        <li>сколько денег приносит каждый клиент,</li><br/>
-        <li>когда расходы на привлечение клиента окупаются,</li><br/>
-        <li>какие факторы мешают привлечению клиентов.</li>
-        </ul>
+        Задача для маркетингового аналитика развлекательного приложения Procrastinate Pro+. Несмотря на огромные вложения в рекламу, последние несколько месяцев компания терпит убытки. Ваша задача — разобраться в причинах и помочь компании выйти в плюс.
         </td>
         <td>
-        Python, Pandas, Matplotlib, Seaborn, Numpy, когортный анализ, юнит-экономика, продуктовые метрики
+        Python, Pandas, Matplotlib, Seaborn, NumPy, SciPy, когортный анализ, юнит-экономика, продуктовые метрики
         </td>
     </tr>
     <tr>
         <td>6.</td>
-        <td><a href = "https://github.com/Dereglazovs/yandex-praktikum/blob/main/6.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20A-B-%D1%82%D0%B5%D1%81%D1%82%D0%B0%20%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0.ipynb">
-        Анализ A/B-теста крупного интернет-магазина
+        <td><a href = "https://github.com/Dereglazovs/yandex-praktikum/blob/main/Project_6/6.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20A-B-%D1%82%D0%B5%D1%81%D1%82%D0%B0%20%D0%BA%D1%80%D1%83%D0%BF%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD%D0%B0.ipynb">
+        Проверка гипотез по увеличению выручки в интернет-магазине - оценить результаты A/B теста
         </a></td>
         <td>
-        Заказчик - Крупный интернет-магазин<br/>
-        Задача — приоритизировать гипотезы, запустить A/B-тест и проанализировать результаты.
+        Используя данные интернет-магазина приоритезировать гипотезы, произвести оценку результатов A/B-тестирования различными методами
         </td>
         <td>
-        Python, Pandas, Matplotlib, SciPy, A/B-тестирование, проверка статистических данных
+        Python, Pandas, Matplotlib, Seaborn, SciPy, A/B-тестирование, проверка статистических гипотез
         </td>
     </tr>
     <tr>
         <td>7.</td>
-        <td><a href = "https://github.com/Dereglazovs/yandex-praktikum/blob/main/7.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE%20%D0%BF%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B2%20%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D0%BE%D0%BC%20%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B8.ipynb">
+        <td><a href = "">
         Анализ пользовательского поведения в мобильном приложении
         </a></td>
         <td>
